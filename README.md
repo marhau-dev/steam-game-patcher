@@ -15,3 +15,6 @@ Open-source project that encourages contributions and feedback.
 
 
 <h3>Before sharing app read license.</h3>
+
+
+<a href="https://github.com/metrixmedia/SteamEmulator">Thank you for MetrixMedia and his repo steamEmulator</a>
